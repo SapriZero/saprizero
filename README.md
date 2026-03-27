@@ -33,7 +33,7 @@ The construction is made fully explicit and executable using the **lambda calcul
 ## Contents
 
 - `paper_zero_01.md` — The full treatise in Markdown format.
-- (future) Code examples in JavaScript/Python implementing Church numerals, the fixed point combinator, and the Sapri Aurea formula.
+- code examples in JavaScript/Python implementing Church numerals, the fixed point combinator, and the Sapri Aurea formula.
 
 ---
 
