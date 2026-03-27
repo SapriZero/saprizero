@@ -12,6 +12,8 @@ In Italian, *sapri* is a dialectal contraction of *si apri* — "it opened". Thi
 
 The name also reflects the spirit of the place where these ideas took form — a place of quiet, of nature, of distance from the frenzy of academic noise. In that silence, the logic of zero could speak clearly.
 
+![Sapri di notte](sapri_notte.jpg)
+
 ---
 
 ## Overview
